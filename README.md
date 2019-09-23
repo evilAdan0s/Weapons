@@ -1,3 +1,4 @@
+![语言](https://img.shields.io/badge/language-Python-brightgreen.svg?style=plastic)
 # Weapons
 ## 这是什么？
 一个收集各种exp的项目，以组件类别做区分，为渗透测试者或Red Teamer提供便利，致力于漏洞武器化。
