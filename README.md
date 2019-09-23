@@ -9,6 +9,9 @@
 ## 参与进来
 个人的力量是有限的，开源的意义也许就在此，提交相关脚本和文档，我们会将您加入贡献者名单。
 
+## 使用方法与提交贡献
+参看[Wiki](https://github.com/evilAdan0s/Weapons/wiki)
+
 ## 贡献者
 白袍(@evilAdan0s)
 
